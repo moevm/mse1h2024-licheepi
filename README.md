@@ -15,7 +15,7 @@
 Инструкции по сборке: [readme](https://github.com/moevm/mse1h2024-licheepi4a-sdk/blob/main/README.md)
 
 ## Итерация 4
-Презентация: 
+Презентация: [ссылка](https://github.com/moevm/mse1h2024-licheepi/blob/presentations/presentations/%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_4.pdf)
 
 Демо: [ссылка](https://github.com/moevm/mse1h2024-licheepi/blob/presentations/presentations/demo_iter4.mp4) [ссылка на youtube](https://youtube.com/shorts/iHLI1RFiB2k)
 
