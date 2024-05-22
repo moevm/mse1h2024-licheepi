@@ -13,3 +13,10 @@
 Демо: [ссылка](https://github.com/moevm/mse1h2024-licheepi/blob/1f6be90cf149222ad2eb16c3783eb2f59f0613de/presentations/demo_iter3.webm) [ссылка на youtube](https://www.youtube.com/watch?v=84mwGTOBX_c)
 
 Инструкции по сборке: [readme](https://github.com/moevm/mse1h2024-licheepi4a-sdk/blob/main/README.md)
+
+## Итерация 4
+Презентация: 
+
+Демо: [ссылка](https://github.com/moevm/mse1h2024-licheepi/blob/presentations/presentations/demo_iter4.mp4) [ссылка на youtube](https://youtube.com/shorts/iHLI1RFiB2k)
+
+Инструкции по сборке: [readme](https://github.com/moevm/mse1h2024-licheepi4a-sdk/blob/main/README.md)
